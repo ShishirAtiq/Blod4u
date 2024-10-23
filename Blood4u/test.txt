@@ -1,0 +1,10 @@
+<table class="table"style="margin-left: 100px;">
+    <?php while($row=mysqli_fetch_assoc($details)){}?>
+        <!-- <tr>
+            <td>Blood Group: <?//php echo $row['blood_g'];?></td>
+            <td>Date: <?//php echo $row['need_date'];?></td>
+            <!-- <td>Number of Bag: <?//php echo $row['number_bag']-$row['collected_bag'];?></td> -->
+            <!-- <td><a class="btn btn-primary mb-4" href="">A</a></td> -->
+        <!-- </tr> --> -->
+    <? php{}  ?>
+    </table>
